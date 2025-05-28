@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Jogo de Cálculo Mental</string>
+    <string name="play">Jogar</string>
+    <string name="about">Sobre</string>
+    <string name="change_language">Alterar idioma</string>
+    <string name="history">Histórico de pontuações</string>
+    <string name="select_language">Selecionar idioma</string>
+    <string name="french">Francês</string>
+    <string name="portuguese">Português</string>
+    <string name="arabic">Árabe</string>
+    <string name="score">Pontuação: %1$d</string>
+    <string name="time">Tempo: %1$d s</string>
+    <string name="question_placeholder">Pergunta aqui</string>
+    <string name="answer_placeholder">Resposta aqui</string>
+    <string name="clear">Apagar</string>
+    <string name="validate">Validar</string>
+    <string name="team_members">Desenvolvido por: você (projeto solo)</string>
+    <string name="features_list">
+        - Jogo de cálculo aleatório\n
+        - Pontuação e cronômetro dinâmico\n
+        - Multilíngue (FR, PT, AR)\n
+        - Teclado numérico personalizado\n
+        - Histórico local de pontuações\n
+        - Tela inicial animada
+    </string>
+    <string name="no_history">Nenhuma pontuação salva no momento.</string>
+    <string name="history_title">Histórico</string>
+</resources>

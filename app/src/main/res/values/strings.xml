@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Calcul Mental Game</string>
+
+    <!-- Menu -->
+    <string name="play">Jouer</string>
+    <string name="about">À propos</string>
+    <string name="change_language">Changer la langue</string>
+    <string name="history">Historique des scores</string>
+    <string name="select_language">Sélectionner la langue</string>
+
+    <!-- Langues -->
+    <string name="french">Français</string>
+    <string name="portuguese">Portugais</string>
+    <string name="arabic">Arabe</string>
+
+    <!-- Jeu -->
+    <string name="score">Score : %1$d</string>
+    <string name="time">Temps : %1$d s</string>
+    <string name="question_placeholder">Question ici</string>
+    <string name="answer_placeholder">Réponse ici</string>
+    <string name="clear">Effacer</string>
+    <string name="validate">Valider</string
+        >
+
+    <!-- À propos -->
+    <string name="team_members">Développé par : THEO LE BASTARD Grp 1.2</string>
+    <string name="features_list">
+        - Jeu de calcul aléatoire\n
+        - Score et timer dynamique\n
+        - ajout de temps lors de bonne réponce et inverse pour mauvaise réponse\n
+        - Multilingue (FR, PT, AR)\n
+        - Clavier numérique personnalisé\n
+        - Historique local des scores\n
+        - Splash screen animé/n
+        - pour modifier la langue de l'app modidier la langue du systeme du telephone
+    </string>
+
+    <!-- Historique -->
+    <string name="no_history">Aucun score enregistré pour le moment.</string>
+    <string name="history_title">Historique</string>
+</resources>

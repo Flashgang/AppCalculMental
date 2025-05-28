@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/textViewTimer"
+        android:text="Temps : 60 s"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textViewScore"
+        android:text="Score : 0"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textViewQuestion"
+        android:text="Question ici"
+        android:textSize="24sp"
+        android:layout_marginBottom="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textViewAnswer"
+        android:text=""
+        android:textSize="28sp"
+        android:gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:background="#EEE"
+        android:layout_marginBottom="16dp" />
+
+    <GridLayout
+        android:id="@+id/gridKeyboard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rowCount="4"
+        android:columnCount="3"
+        android:layout_marginBottom="24dp">
+
+        <Button android:text="1" />
+        <Button android:text="2" />
+        <Button android:text="3" />
+        <Button android:text="4" />
+        <Button android:text="5" />
+        <Button android:text="6" />
+        <Button android:text="7" />
+        <Button android:text="8" />
+        <Button android:text="9" />
+        <Button android:text="Effacer" />
+        <Button android:text="0" />
+        <Button android:text="Valider" />
+    </GridLayout>
+</LinearLayout>

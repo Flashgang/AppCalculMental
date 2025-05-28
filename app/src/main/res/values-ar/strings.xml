@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">لعبة الحساب الذهني</string>
+    <string name="play">ابدأ اللعب</string>
+    <string name="about">حول</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="history">سجل النقاط</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="french">الفرنسية</string>
+    <string name="portuguese">البرتغالية</string>
+    <string name="arabic">العربية</string>
+    <string name="score">النقاط: %1$d</string>
+    <string name="time">الوقت: %1$d ث</string>
+    <string name="question_placeholder">السؤال هنا</string>
+    <string name="answer_placeholder">الإجابة هنا</string>
+    <string name="clear">مسح</string>
+    <string name="validate">تحقق</string>
+    <string name="team_members">تم التطوير بواسطة: أنت (مشروع فردي)</string>
+    <string name="features_list">
+        - لعبة حساب عشوائية\n
+        - نقاط ومؤقت ديناميكي\n
+        - يدعم اللغات (FR، PT، AR)\n
+        - لوحة مفاتيح رقمية مخصصة\n
+        - سجل محلي للنقاط\n
+        - شاشة بدء متحركة
+    </string>
+    <string name="no_history">لا توجد نقاط محفوظة حاليًا.</string>
+    <string name="history_title">السجل</string>
+</resources>

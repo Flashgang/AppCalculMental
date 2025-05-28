@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Ton thème d'application ici -->
+
+    <style name="CalcKey">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
